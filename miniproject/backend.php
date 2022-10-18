@@ -1,4 +1,4 @@
-    <?php
+<?php
     require_once("./ajax/config.php");
     include("./template/header.php");
     ?>
